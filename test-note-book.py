@@ -3,3 +3,4 @@
 # MAGIC print("hello")
 # MAGIC print("world")
 # MAGIC print("world2")
+# MAGIC print("on branch")
